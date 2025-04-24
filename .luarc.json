@@ -1,0 +1,14 @@
+{
+  "completion.callSnippet": "Replace",
+  "completion.keywordSnippet": "Replace",
+  "completion.showWord": "Fallback",
+  "runtime.version": "Lua 5.4",
+  "runtime.nonstandardSymbol": ["+=", "-=", "*=", "/="],
+  "telemetry.enable": false,
+  "workspace.ignoreSubmodules": false,
+  "workspace.library": ["$HOME/Developer/PlaydateSDK/CoreLibs"],
+  "workspace.preloadFileSize": 1000,
+  "playdate.sdkPath": "$HOME/Developer/PlaydateSDK",
+  "diagnostics.disable": ["lowercase-global", "undefined-global"],
+  "diagnostics.globals": ["playdate", "import"]
+}

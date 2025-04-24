@@ -1,0 +1,7 @@
+name=Double Check
+author=Divin Gavran
+description=Jerry is about to leave the house, check if he has everything he needs.
+bundleID=com.divingavran.double-check
+version=1.0.0
+buildNumber=8
+imagePath=assets/images/launcher/
