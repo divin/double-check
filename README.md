@@ -1,5 +1,8 @@
 # Double Check 👀
 
+> [!NOTE]  
+> Hey there! Just a heads-up: this code was written back in 2024. It might not follow all the current best practices, but hopefully, some of you might still find it interesting! I've archived this repository as I don't plan on updating this game any further. If you're looking for an example of a good Playdate game structure, feel free to check out my [template repository](https://github.com/divin/pd-game-template) or one of my more recent games. Thanks for stopping by!
+
 **Double Check** is little game made for the **[Playdate](https://play.date)** during the **[PlayJam 5](https://itch.io/jam/playjam-5)** game jam. The game is simple, **Jerry** is about to leave the house for a special event. You have a **list of items** that Jerry needs to take with him. **Double check** to make sure he has everything he needs.
 
 <p align="center">
